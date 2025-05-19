@@ -44,7 +44,7 @@ run
 
 4. Python HTTP Server for Payload Delivery
 Objective: Serve the malicious file to the Windows victim machine over HTTP.
-Command: python3 -m http.server 9999
+Command: python3 -m http.server 9999 </br>
 ![image alt](https://github.com/waqar172/Portfolio/blob/master/04.PNG?raw=true)
 
 5. HTTP Server Webpage Hosting the Payload
