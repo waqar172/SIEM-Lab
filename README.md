@@ -1,9 +1,9 @@
-###SIEM-Implementation-and-Log-Analysis
+### SIEM-Implementation-and-Log-Analysis
 
-###Objective
+### Objective
 This SIEM implementation lab focused on deploying and configuring a Security Information and Event Management (SIEM) solution using Splunk on a Windows virtual machine. The goal was to monitor and detect security threats by leveraging Sysmon logs, while simulating real-world cyber attacks from a Kali Linux virtual machine using Metasploit and MSFvenom. These simulations generated security events that were analyzed to improve incident response capabilities. The hands-on project provided practical experience in using Splunk Processing Language (SPL), parsing log data, and identifying attack patterns through parent-child process relationships.
 
-###Skills Learned
+### Skills Learned
 . Gained advanced understanding of SIEM concepts and their real-world application.
 . Demonstrated proficiency in analyzing, interpreting, and correlating network and host-based logs.
 . Developed the ability to generate and identify attack signatures and behavioral patterns.
